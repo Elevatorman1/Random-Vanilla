@@ -1,0 +1,28 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xyx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "test:cheese"
+    },
+
+    "y":
+    {
+      "item": "minecraft:orange_dye"
+    }
+
+  },
+  "result":
+  {
+    "item": "test:doritos",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "test:plastic_scrap"
+    }
+
+  },
+  "result":
+  {
+    "item": "test:plastic_block",
+    "count": 1
+  }
+}

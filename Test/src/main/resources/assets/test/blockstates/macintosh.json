@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "test:block/macintosh" },
+    "facing=south": { "model": "test:block/macintosh", "y":  180},
+    "facing=west": { "model": "test:block/macintosh", "y":  270},
+    "facing=east": { "model": "test:block/macintosh", "y":  90}
+  }
+}

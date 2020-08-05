@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "test:plastic_scrap"
+  },
+  "result": "test:polished_plastic",
+  "experience": 10.0,
+  "cookingtime": 5
+}

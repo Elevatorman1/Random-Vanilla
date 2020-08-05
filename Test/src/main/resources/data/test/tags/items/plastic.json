@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "test:plastic_scrap",
+    "test:polished_plastic",
+    "test:toy_pickaxe",
+    "test:toy_axe",
+    "test:toy_hoe",
+    "test:toy_shovel",
+    "test:toy_sword",
+    "test:toy_helmet",
+    "test:toy_chestplate",
+    "test:toy_leggings",
+    "test:toy_boots"
+  ]
+}

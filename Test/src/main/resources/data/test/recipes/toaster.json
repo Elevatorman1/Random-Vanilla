@@ -1,0 +1,38 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "i i",
+    "ifl",
+    "iri"
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+
+    "f":
+    {
+      "item": "minecraft:furnace"
+    },
+
+    "l":
+    {
+      "item": "minecraft:lever"
+    },
+
+    "r":
+    {
+      "item": "minecraft:redstone"
+    }
+
+  },
+  "result":
+  {
+    "item": "test:toaster",
+    "count": 1
+  }
+}

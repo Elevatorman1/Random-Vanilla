@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "test:polished_plastic_block"
+    }
+  ],
+  "result":
+  {
+    "item": "test:polished_plastic",
+    "count": 9
+  }
+}

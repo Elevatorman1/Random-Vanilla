@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "test:plastic_block"
+    }
+  ],
+  "result":
+  {
+    "item": "test:plastic_scrap",
+    "count": 9
+  }
+}

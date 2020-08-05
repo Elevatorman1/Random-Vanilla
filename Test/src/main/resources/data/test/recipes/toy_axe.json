@@ -1,0 +1,28 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+  " xx",
+  " xi",
+  "  i"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "test:polished_plastic"
+    },
+
+    "i":
+    {
+      "item": "minecraft:stick"
+    }
+
+  },
+  "result":
+  {
+    "item": "test:toy_axe",
+    "count": 1
+  }
+}

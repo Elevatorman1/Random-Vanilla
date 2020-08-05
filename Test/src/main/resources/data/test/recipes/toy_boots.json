@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "x x",
+    "x x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "test:polished_plastic"
+    }
+
+  },
+  "result":
+  {
+    "item": "test:toy_boots",
+    "count": 1
+  }
+}
